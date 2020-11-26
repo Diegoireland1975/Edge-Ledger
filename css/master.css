@@ -102,6 +102,7 @@ p {
   line-height: 1.1;
   letter-spacing: 0.25rem;
   margin-bottom: 0.75rem;
+  font-weight: 100;
 }
 
 #showcase p {
@@ -117,6 +118,7 @@ p {
   padding: 0.5rem 2rem;
   border: none;
   border-radius: 5px;
+  transition: background 0.4s ease-in;
 }
 
 .btn:hover {
